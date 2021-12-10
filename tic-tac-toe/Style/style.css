@@ -1,0 +1,26 @@
+td{
+    border: 3px solid rgb(5, 77, 82);
+    background-color: rgb(245, 243, 149);
+    height: 120px;
+    width: 120px;
+}
+#td1 , #td2 , #td3{
+    border-top: none;
+}
+#td7 , #td4 , #td1{
+    border-left: none;
+}
+#td9 , #td6 , #td3{
+    border-right: none;
+}
+
+#td9 , #td8 , #td7{
+    border-bottom: none;
+}
+button{
+    height: 120px;
+    width: 120px;
+    background-color: rgb(245, 243, 149);
+    border: none;
+    border-radius: 100%;
+}
